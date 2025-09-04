@@ -127,16 +127,6 @@ recommender.recommend(budget=250000, min_range=450, min_battery=60)
 
 ---
 
-## 🎯 Conclusion  
-This project demonstrates:  
-- **Data cleaning & preprocessing**  
-- **Exploratory Data Analysis (EDA)**  
-- **Outlier detection & visualization**  
-- **Hypothesis testing**  
-- **Recommendation system using OOP**
-
----
-
 ## 🙏 Thank You  
 Thanks for reading!  
 📌 **Connect with me on LinkedIn:** [Ajay Thakur](https://www.linkedin.com/in/ajay-thakur-5158bb186/)  
